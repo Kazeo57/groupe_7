@@ -15,7 +15,7 @@ mais on effectivement effectué le travail tout le monde sauf GBEGAN Gilderic qu
  HOUNDJO Armand(10.5%)        |LEKE LEGBA Bryan (11%)         |N'BOUKE Fulgence 1%<br>
  AZONHOUMON Lionel(11%)       |HOUNTON Johannes (12%)
 
- L'une des principales difficutés pour ce prjet a été le slicing pour les Array de dimensions 2.Nous avns fait l'effort <br>
+ L'une des principales difficutés pour ce projet a été le slicing pour les Array de dimensions 2.Nous avons fait l'effort <br>
  de rendre comme nous le pouvions les tâches qui ont été demandées ce 28/062024.<br>
 
 

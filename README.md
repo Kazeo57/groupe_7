@@ -1,4 +1,4 @@
-     Au terme de ce projet qui consistait à coder numpy from scratch avec juste quelques fonctions de bases,faire de la visulisation en R et Python et faire une application tkinter de génération d'image ,
+Au terme de ce projet qui consistait à coder numpy from scratch avec juste quelques fonctions de bases,faire de la visulisation en R et Python et faire une application tkinter de génération d'image ,
 on peut retenir les points suivants:<br>
 -Le travail a rigoureusement débuté le Lundi 17 juin <br>
 -le groupe a été divisé en  3 grands groupes selon l'affinité de chacun avec un projet donné:<br>
